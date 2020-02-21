@@ -19,8 +19,8 @@ USAGE:
 
 FLAGS:
     -h, --help       Prints help information
-    -s, --silent     Prevent any log message to be output
-    -l, --list       Display a list of the supported decoder
+    -s, --silent     Prevents any log message to be output
+    -l, --list       Displays a list of the supported decoder
     -V, --version    Prints version information
     -v               Sets the level of verbosity (Error[default] > Warning > Info > Debug > Trace)
 
